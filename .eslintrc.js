@@ -1,8 +1,8 @@
 module.esports = {
   plugins: 'react',
   extends: [
-    '../../.eslintrc',
     'plugin:react/recommended',
+    'cheshireswift',
   ],
   parserOptions: {
     ecmaFeatures: {

@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Twitch Multiviewer',
   },
   plugins: ['gatsby-plugin-react-next', 'gatsby-plugin-react-helmet'],
+  pathPrefix: '/twitch-multiview',
 }
